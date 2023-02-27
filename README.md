@@ -1,1 +1,1 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saharsh1223)](https://github.com/saharsh1223/github-readme-stats&count_private=true&show_icons=true&theme=tokyonight)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Saharsh1223&bg_color=30,0cfabb,00fbff&title_color=000&text_color=000&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
