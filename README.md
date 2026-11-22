@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm a 17 year old self thought programmer.
+I'm a 17 year old self taught programmer.
 
 ---
 
